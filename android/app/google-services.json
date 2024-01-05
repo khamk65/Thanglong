@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "259004174978",
+    "firebase_url": "https://baochay2-3f8c0-default-rtdb.firebaseio.com",
+    "project_id": "baochay2-3f8c0",
+    "storage_bucket": "baochay2-3f8c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259004174978:android:3fa9221d8edd0126ee1a9b",
+        "android_client_info": {
+          "package_name": "com.example.app2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFqWcQktMdSzXpl7RflQbEmWVOcyDQPBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
